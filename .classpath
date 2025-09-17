@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/restfulapi1/src/main/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/restfulapi1/src/test/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/springbootbasic/src/main/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/springbootbasic/src/test/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/SpringIOC_Scope/src/main/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/SpringIOC_Scope/src/test/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/SpringIOC/src/main/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/SpringIOC/src/test/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/springQualifier/src/main/java"/>
+	<classpathentry kind="src" path="spring BootProject/spring BootProject/springQualifier/src/test/java"/>
+	<classpathentry kind="output" path="spring BootProject/spring BootProject/SpringIOC/target/classes"/>
+</classpath>
