@@ -1,4 +1,4 @@
-package com.tnsif.placement.service.config;
+package com.tnsif.placement.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
